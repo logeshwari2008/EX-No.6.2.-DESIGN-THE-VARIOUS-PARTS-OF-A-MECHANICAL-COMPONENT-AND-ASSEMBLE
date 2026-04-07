@@ -50,7 +50,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ## OUTPUT:
 
 
-[chair Drawing.pdf](https://github.com/user-attachments/files/26505296/chair.Drawing.pdf)
+<img width="1048" height="747" alt="image" src="https://github.com/user-attachments/assets/2650b291-20ee-475f-898a-74156478f1ab" />
+
 
 
 
